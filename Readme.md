@@ -63,7 +63,7 @@ your url is: https://shivamjenkins8168.loca.lt/github-webhook/
 
 
 
-### REQYUIREMENTS ###
+### REQUIREMENTS ###
 - jenkins SCM Pulls the latest code on every build 
 - pkill -f "node app.js" || true -: kills previously runing app 
 - nohup npm start & :- restart app 
