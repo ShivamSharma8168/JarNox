@@ -78,6 +78,6 @@ I am more comfortable using JEnkins so I am using jenkins here.
 
 
 
-# Contact
+# Contacts
 Email iD: sharma.shiv8535@gmail.com
 LinkedIn: www.linkedin.com/in/shivamsharma8168
